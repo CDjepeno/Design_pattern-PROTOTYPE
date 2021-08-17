@@ -10,4 +10,4 @@ $ git clone https://github.com/CDjepeno/Design_pattern-PROTOTYPE.git
 $ cd Design_pattern-PROTOTYPE
 $ npm install
 $ npm run test
-```
+``` 
